@@ -1,0 +1,6 @@
+module Pods_monPetitEntretien_monPetitEntretienTests {
+  umbrella header "Pods-monPetitEntretien-monPetitEntretienTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
